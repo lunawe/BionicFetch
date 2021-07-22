@@ -1,10 +1,10 @@
 # BionicFetch
-A screenshot tool for BionicOS
+A screenshot tool for BionicOS. 
 To install BionicFetch, you must do these things:
 1) Have git installed. If you havent installed git yet, install it using:
 ```
-sudo pacman -S git #Arch-based distros
-sudo apt install git #Debian-based distros
+sudo pacman -S git #for Arch-based distros
+sudo apt install git #for Debian-based distros
 ```
 2) Then, clone the repository and to these things:
 ```
